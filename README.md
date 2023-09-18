@@ -1,1 +1,1 @@
-# MST-Algorithms-Kruskal-s-Algorithm
+# MST-Algorithms
